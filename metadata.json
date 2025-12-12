@@ -1,0 +1,5 @@
+{
+  "name": "Lumina E-Commerce",
+  "description": "A sleek, modern e-commerce frontend built with React and Tailwind, featuring a Gemini-powered personal shopping assistant. Ready to integrate with a Spring Boot backend.",
+  "requestFramePermissions": []
+}
